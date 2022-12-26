@@ -1,0 +1,23 @@
+{
+   "name": "nodejs-demo",
+   "version": "1.0.0",
+   "description": "nodesjs-demo",
+   "author": {
+
+        "email": "ashishreddy8001@gmail.com",
+        "name": "ashish"
+   },
+   "license": "MIT",
+   "main": "app.js",
+   "keywords": [
+
+     "nodejs",
+     "bootstrap",
+     "express"
+   ],
+   "dependencies": {
+     "express": "^4.18.2"
+   }
+
+
+}
